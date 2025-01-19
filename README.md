@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,mui,emotion,githubactions,azure,figma" />
+    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,mui,emotion,azure,figma" />
       
   </a>
 </p>
@@ -34,6 +34,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,docker,graphql,vite,laravel,nodejs,postman" />
+    <img src="https://skillicons.dev/icons?i=python,go,docker,graphql,vite,laravel,nodejs,githubactions,postman" />
   </a>
 </p>
